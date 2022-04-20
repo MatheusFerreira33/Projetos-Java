@@ -1,10 +1,10 @@
 package programas.estoqueProdutos;
 
-class jogosPS4 {
+class jogosPS4  {
 
-    double gtaV() {
+    double gtaV() { // metodo
 
-        double preco = 80.00;
+        double preco = 80.00; // atributo
 
         if( preco == 80.00 ){
             System.out.println(preco);
@@ -56,7 +56,20 @@ class jogosPS4 {
 
 
 
+
+
 } 
+
+class produtoP1{
+
+    produtoP1(){ // isso e um construtor, tem que ser com o mesmo nome da classe
+        
+    int i = 0;
+
+}
+
+
+}
 
 public class produtos {
 

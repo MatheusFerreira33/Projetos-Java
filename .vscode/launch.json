@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch acesso",
+            "request": "launch",
+            "mainClass": "AluraJava_5.acesso",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch modificadorAcesso",
+            "request": "launch",
+            "mainClass": "AluraJava_6.modificadorAcesso",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch construtor",
+            "request": "launch",
+            "mainClass": "AluraJava_6.construtor",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch teste2",
+            "request": "launch",
+            "mainClass": "AluraJava_6.teste2",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresAritmeticos",
+            "request": "launch",
+            "mainClass": "AluraJava_3.OperadoresAritmeticos",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresLogicos",
+            "request": "launch",
+            "mainClass": "AluraJava_3.OperadoresLogicos",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch sobrecarga",
+            "request": "launch",
+            "mainClass": "AluraJava_6.sobrecarga",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch swicth",
+            "request": "launch",
+            "mainClass": "AluraJava_3.swicth",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch metodos2",
+            "request": "launch",
+            "mainClass": "AluraJava_6.metodos2",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch teste",
+            "request": "launch",
+            "mainClass": "AluraJava_6.teste",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch teste3",
+            "request": "launch",
+            "mainClass": "AluraJava_6.teste3",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
             "name": "Launch produtos2",
             "request": "launch",
             "mainClass": "programas.estoqueProdutos.produtos2",
