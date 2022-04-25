@@ -1,4 +1,4 @@
-package programas.estoqueProdutos;
+package programas.estoqueProdutos.produtos;
 
 class jogosPS4  {
 
