@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch batimentos",
+            "request": "launch",
+            "mainClass": "programas.Batimentos.batimentos",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch referencia",
+            "request": "launch",
+            "mainClass": "AluraJava_7.referencia",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch polimorfismo",
+            "request": "launch",
+            "mainClass": "AluraJava_7.polimorfismo",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch heranca",
+            "request": "launch",
+            "mainClass": "AluraJava_7.heranca",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch herancaTeste",
+            "request": "launch",
+            "mainClass": "AluraJava_7.herancaTeste",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
             "name": "Launch acesso",
             "request": "launch",
             "mainClass": "AluraJava_5.acesso",
