@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch GetSet",
+            "request": "launch",
+            "mainClass": "AluraJava_7.GetSet",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
             "name": "Launch batimentos",
             "request": "launch",
             "mainClass": "programas.Batimentos.batimentos",
