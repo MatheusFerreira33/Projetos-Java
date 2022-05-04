@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DateTime2",
+            "request": "launch",
+            "mainClass": "AluraJava_9.DateTime2",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch DateTime",
+            "request": "launch",
+            "mainClass": "AluraJava_9.DateTime",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Wrappers",
+            "request": "launch",
+            "mainClass": "AluraJava_9.Wrappers",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch teste",
+            "request": "launch",
+            "mainClass": "AluraJava_7.teste",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch arraysMulti",
+            "request": "launch",
+            "mainClass": "AluraJava_4.arraysMulti",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ObjetosConstrutores",
+            "request": "launch",
+            "mainClass": "AluraJava_7.ObjetosConstrutores",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch cast",
+            "request": "launch",
+            "mainClass": "AluraJava_7.cast",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
             "name": "Launch GetSet",
             "request": "launch",
             "mainClass": "AluraJava_7.GetSet",

@@ -1,6 +1,6 @@
 package AluraJava_7;
 
-public class heranca {
+/*public class heranca {
 
 
     String nome (){
@@ -21,17 +21,11 @@ class herancaFilha extends heranca{
 
 class herancaNeta extends herancaFilha{
 
-}
+}*/
 
 
 class herancaTeste{
     public static void main(String [] args){
-
-        herancaNeta h = new herancaNeta();
-
-      
-       System.out.println(h.nome());
-       System.out.println(h.idade(20));
 
         
        

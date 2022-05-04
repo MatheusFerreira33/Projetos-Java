@@ -1,6 +1,6 @@
 package AluraJava_7;
 
-class D extends C {
+/*class D extends C {
     void x() {
         System.out.println(1);
     }
@@ -27,14 +27,14 @@ class B {
 
     void y(D d) {
         d.x();
-    }*/
-}
+    }
+} */
 
 public class referencia {
 
     public static void main(String[] args) {
 
-        new B().y(new C());
+       
 
     }
 
