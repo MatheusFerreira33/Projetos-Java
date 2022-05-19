@@ -5,7 +5,7 @@ public class arraysMulti {
     
     public static void main(String[] args) {
         
-     /*   int[] tabela;
+        int[][] tabela;
         int[][] cubo[];
 
         tabela = new int[10][5];
@@ -17,8 +17,8 @@ public class arraysMulti {
         estranho[1] = new int[10];
 
         for (int i = 0; i < estranho.length; i++) {
-            Sytem.out.println(estranho[i].length);
-        }*/
+            System.out.println(estranho[i].length);
+        }
 
 
         ////////////////////ARRAYLIST/////////////////////////////////////

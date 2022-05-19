@@ -11,7 +11,7 @@ public class Wrappers {
         * boolean = Boolean
         * byte = Byte
         * short = Short
-        * int = Interger
+        * int = Integer
         * char = Character
         * long = Long
         * double = Double

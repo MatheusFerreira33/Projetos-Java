@@ -15,6 +15,7 @@ import java.util.List;
 
     // long->int->short->byte
     // pontos flutuantes float - > double
+    //double -> int 
     //char sempre vai ser positivo
 
     int a = 10;

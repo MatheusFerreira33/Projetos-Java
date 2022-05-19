@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Greeter",
+            "request": "launch",
+            "mainClass": "AluraJava_9.Greeter",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayList2",
+            "request": "launch",
+            "mainClass": "AluraJava_4.arrayList2",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayList",
+            "request": "launch",
+            "mainClass": "AluraJava_4.arrayList",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array2",
+            "request": "launch",
+            "mainClass": "AluraJava_4.Array2",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array",
+            "request": "launch",
+            "mainClass": "AluraJava_4.Array",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pessoa",
+            "request": "launch",
+            "mainClass": "programas.Formulario.Pessoa",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cadastro",
+            "request": "launch",
+            "mainClass": "programas.Formulario.Cadastro",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch testaCasting",
+            "request": "launch",
+            "mainClass": "AluraJava_3.testaCasting",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch operadorTernario",
+            "request": "launch",
+            "mainClass": "AluraJava_3.operadorTernario",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ifelse",
+            "request": "launch",
+            "mainClass": "AluraJava_3.ifelse",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestaStringBuilder",
+            "request": "launch",
+            "mainClass": "AluraJava_2.TestaStringBuilder",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch CriacaoManipulacaoString",
+            "request": "launch",
+            "mainClass": "AluraJava_2.CriacaoManipulacaoString",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
             "name": "Launch DateTime2",
             "request": "launch",
             "mainClass": "AluraJava_9.DateTime2",
