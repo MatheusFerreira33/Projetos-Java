@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CompraTeste",
+            "request": "launch",
+            "mainClass": "Objetos.relacionamentoDe1.CompraTeste",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch item",
+            "request": "launch",
+            "mainClass": "Objetos.relacionamentoDe1.item",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch verificacao",
+            "request": "launch",
+            "mainClass": "AluraJava_2.verificacao",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Set",
+            "request": "launch",
+            "mainClass": "AluraJava_9.Set",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch equalHashcode",
+            "request": "launch",
+            "mainClass": "AluraJava_4.equalHashcode",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch matriz",
+            "request": "launch",
+            "mainClass": "programas.Notas.matriz",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch notas",
+            "request": "launch",
+            "mainClass": "programas.Notas.notas",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
+            "name": "Launch variaveisLocais",
+            "request": "launch",
+            "mainClass": "AluraJava_1.Aulas.variaveisLocais",
+            "projectName": "Java_460deeb1"
+        },
+        {
+            "type": "java",
             "name": "Launch Greeter",
             "request": "launch",
             "mainClass": "AluraJava_9.Greeter",
